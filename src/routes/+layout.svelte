@@ -1,4 +1,6 @@
 <script lang="ts">
+	import 'virtual:pwa-assets/head';
+
 	import '../app.css';
 
 	let { children } = $props();
